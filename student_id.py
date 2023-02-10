@@ -3,3 +3,4 @@ def print_id(student_id):
 
 if_name_=="_main_":
     print_id("34567")
+    print_id("6513367")
